@@ -1,2 +1,5 @@
 .idea/
 *.sln
+**/obj/
+FreelancerMarketplace.Presentation/bin
+FreelancerMarketplace.Presentation/Properties
